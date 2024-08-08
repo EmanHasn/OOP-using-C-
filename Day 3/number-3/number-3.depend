@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1703773889 source:d:\lab c++ oop\day3\number-3\main.cpp
+	<iostream>
+	<Employee.h>
+	<Department.h>
+
+1703768608 source:d:\lab c++ oop\day3\number-3\src\department.cpp
+	"Department.h"
+	<iostream>
+
+1703768780 d:\lab c++ oop\day3\number-3\include\department.h
+	<Employee.h>
+	<iostream>
+
+1703763689 source:d:\lab c++ oop\day3\number-3\src\employee.cpp
+	"Employee.h"
+
+1703763560 d:\lab c++ oop\day3\number-3\include\employee.h
+	<iostream>
+

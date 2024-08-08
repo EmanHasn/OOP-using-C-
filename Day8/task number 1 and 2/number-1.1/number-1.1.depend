@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1704317043 source:d:\lab c++ oop\day7\number-1.1\src\line.cpp
+	"Line.h"
+	"graphics.h"
+
+1704315864 d:\lab c++ oop\day7\number-1.1\include\line.h
+	"Point.h"
+
+1704315872 source:d:\lab c++ oop\day7\number-1.1\src\picture.cpp
+	"Picture.h"
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+
+1704315926 d:\lab c++ oop\day7\number-1.1\include\picture.h
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+
+1704315957 source:d:\lab c++ oop\day7\number-1.1\src\point.cpp
+	"Point.h"
+
+1704316318 d:\lab c++ oop\day7\number-1.1\include\point.h
+
+1704317059 source:d:\lab c++ oop\day7\number-1.1\src\rect.cpp
+	"Rect.h"
+	<graphics.h>
+
+1704316003 d:\lab c++ oop\day7\number-1.1\include\rect.h
+	"Point.h"
+
+1704316400 source:d:\lab c++ oop\day7\number-1.1\src\shape.cpp
+	"Shape.h"
+	<iostream>
+	<graphics.h>
+
+1704316236 d:\lab c++ oop\day7\number-1.1\include\shape.h
+
+1704317043 source:d:\lab c++ oop\day7\number-1.1\src\circle.cpp
+	"Circle.h"
+	"graphics.h"
+
+1704315795 d:\lab c++ oop\day7\number-1.1\include\circle.h
+	"Point.h"
+
+1704316967 source:d:\lab c++ oop\day7\number-1.1\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+	"Picture.h"
+	"Shape.h"
+

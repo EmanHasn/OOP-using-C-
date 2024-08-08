@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1704009356 source:d:\lab c++ oop\day5\number-2\main.cpp
+	<iostream>
+	"rectangle.h"
+	"geoshape.h"
+
+1704009260 source:d:\lab c++ oop\day5\number-2\src\geoshape.cpp
+	"geoshape.h"
+	<iostream>
+
+1704007901 d:\lab c++ oop\day5\number-2\include\geoshape.h
+
+1704009282 source:d:\lab c++ oop\day5\number-2\src\rectangle.cpp
+	"rectangle.h"
+	"geoshape.h"
+
+1704008565 d:\lab c++ oop\day5\number-2\include\rectangle.h
+	"geoshape.h"
+
+1704009676 source:d:\lab c++ oop\day5\number-2\src\sqare.cpp
+	"sqare.h"
+	"geoshape.h"
+
+1704009651 d:\lab c++ oop\day5\number-2\include\sqare.h
+	"geoshape.h"
+

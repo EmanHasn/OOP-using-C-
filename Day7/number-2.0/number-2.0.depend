@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1704189137 source:d:\lab c++ oop\day7\number-2.0\src\point.cpp
+	"Point.h"
+
+1704189077 d:\lab c++ oop\day7\number-2.0\include\point.h
+
+1704189454 source:d:\lab c++ oop\day7\number-2.0\src\line.cpp
+	"Line.h"
+	"graphics.h"
+
+1704189433 d:\lab c++ oop\day7\number-2.0\include\line.h
+	"Point.h"
+
+1704222342 source:d:\lab c++ oop\day7\number-2.0\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+	"Picture.h"
+
+1704189592 d:\lab c++ oop\day7\number-2.0\include\circle.h
+	"Point.h"
+
+1704189744 source:d:\lab c++ oop\day7\number-2.0\src\circle.cpp
+	"Circle.h"
+	"graphics.h"
+
+1704195582 source:d:\lab c++ oop\day7\number-2.0\src\rect.cpp
+	"Rect.h"
+	<graphics.h>
+
+1704190145 d:\lab c++ oop\day7\number-2.0\include\rect.h
+	"Point.h"
+
+1704195711 d:\lab c++ oop\day7\number-2.0\include\picture.h
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+
+1704199275 source:d:\lab c++ oop\day7\number-2.0\src\picture.cpp
+	"Picture.h"
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+

@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1704013727 source:d:\lab c++ oop\day4\number-2.0\src\geoshape.cpp
+	"geoshape.h"
+	<iostream>
+
+1704013727 d:\lab c++ oop\day4\number-2.0\include\geoshape.h
+
+1704013822 source:d:\lab c++ oop\day4\number-2.0\src\rectangle.cpp
+	"rectangle.h"
+	"geoshape.h"
+
+1704013794 d:\lab c++ oop\day4\number-2.0\include\rectangle.h
+	"geoshape.h"
+
+1704014926 source:d:\lab c++ oop\day4\number-2.0\src\square.cpp
+	"geoshape.h"
+	"Square.h"
+
+1704014144 d:\lab c++ oop\day4\number-2.0\include\square.h
+
+1704021649 source:d:\lab c++ oop\day4\number-2.0\main.cpp
+	<iostream>
+	"rectangle.h"
+	"geoshape.h"
+	"Square.h"
+	"Circle.h"
+
+1704014919 source:d:\lab c++ oop\day4\number-2.0\src\circle.cpp
+	"Circle.h"
+	"Geoshape.h"
+
+1704014576 d:\lab c++ oop\day4\number-2.0\include\circle.h
+	"Geoshape.h"
+
+1704108587 source:d:\lab c++ oop\day6\number-2.1\main.cpp
+	<iostream>
+	"rectangle.h"
+	"geoshape.h"
+	"Square.h"
+	"Circle.h"
+
+1704105447 d:\lab c++ oop\day6\number-2.1\include\rectangle.h
+	"geoshape.h"
+
+1704108325 d:\lab c++ oop\day6\number-2.1\include\geoshape.h
+
+1704105523 d:\lab c++ oop\day6\number-2.1\include\square.h
+	"Geoshape.h"
+
+1704106017 d:\lab c++ oop\day6\number-2.1\include\circle.h
+	"Geoshape.h"
+
+1704106151 source:d:\lab c++ oop\day6\number-2.1\src\circle.cpp
+	"Circle.h"
+	"Geoshape.h"
+
+1704108280 source:d:\lab c++ oop\day6\number-2.1\src\rectangle.cpp
+	"rectangle.h"
+	"geoshape.h"
+
+1704105811 source:d:\lab c++ oop\day6\number-2.1\src\square.cpp
+	"geoshape.h"
+	"Square.h"
+
+1704108325 source:d:\lab c++ oop\day6\number-2.1\src\geoshape.cpp
+	"geoshape.h"
+	"Rectangle.h"
+	"Circle.h"
+	"Square.h"
+	<iostream>
+

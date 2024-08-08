@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1703636774 source:d:\lab c++ oop\day2\number-2\main.cpp
+	<iostream>
+	<Date.h>
+
+1703590301 d:\lab c++ oop\day2\number-2\include\date.h
+
+1703633707 source:d:\lab c++ oop\day2\number-2\src\date.cpp
+	"Date.h"
+	"Date.h"
+	<iostream>
+

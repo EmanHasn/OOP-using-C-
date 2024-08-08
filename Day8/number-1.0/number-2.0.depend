@@ -1,0 +1,236 @@
+# depslib dependency file v1.0
+1704189137 source:d:\lab c++ oop\day7\number-2.0\src\point.cpp
+	"Point.h"
+
+1704189077 d:\lab c++ oop\day7\number-2.0\include\point.h
+
+1704189454 source:d:\lab c++ oop\day7\number-2.0\src\line.cpp
+	"Line.h"
+	"graphics.h"
+
+1704189433 d:\lab c++ oop\day7\number-2.0\include\line.h
+	"Point.h"
+
+1704199717 source:d:\lab c++ oop\day7\number-2.0\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+	"Picture.h"
+
+1704189592 d:\lab c++ oop\day7\number-2.0\include\circle.h
+	"Point.h"
+
+1704189744 source:d:\lab c++ oop\day7\number-2.0\src\circle.cpp
+	"Circle.h"
+	"graphics.h"
+
+1704195582 source:d:\lab c++ oop\day7\number-2.0\src\rect.cpp
+	"Rect.h"
+	<graphics.h>
+
+1704190145 d:\lab c++ oop\day7\number-2.0\include\rect.h
+	"Point.h"
+
+1704195711 d:\lab c++ oop\day7\number-2.0\include\picture.h
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+
+1704199275 source:d:\lab c++ oop\day7\number-2.0\src\picture.cpp
+	"Picture.h"
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+
+1704163780 source:d:\iti - new\h\number-2.0-20240102t130920z-001\number-2.0\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+	"Picture.h"
+
+1704153076 d:\iti - new\h\number-2.0-20240102t130920z-001\number-2.0\include\point.h
+
+1704153432 d:\iti - new\h\number-2.0-20240102t130920z-001\number-2.0\include\line.h
+	"Point.h"
+
+1704153592 d:\iti - new\h\number-2.0-20240102t130920z-001\number-2.0\include\circle.h
+	"Point.h"
+
+1704154144 d:\iti - new\h\number-2.0-20240102t130920z-001\number-2.0\include\rect.h
+	"Point.h"
+
+1704159710 d:\iti - new\h\number-2.0-20240102t130920z-001\number-2.0\include\picture.h
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+
+1704153744 source:d:\iti - new\h\number-2.0-20240102t130920z-001\number-2.0\src\circle.cpp
+	"Circle.h"
+	"graphics.h"
+
+1704153454 source:d:\iti - new\h\number-2.0-20240102t130920z-001\number-2.0\src\line.cpp
+	"Line.h"
+	"graphics.h"
+
+1704163274 source:d:\iti - new\h\number-2.0-20240102t130920z-001\number-2.0\src\picture.cpp
+	"Picture.h"
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+
+1704153136 source:d:\iti - new\h\number-2.0-20240102t130920z-001\number-2.0\src\point.cpp
+	"Point.h"
+
+1704159582 source:d:\iti - new\h\number-2.0-20240102t130920z-001\number-2.0\src\rect.cpp
+	"Rect.h"
+	<graphics.h>
+
+1704127780 source:c:\users\konooz gamal\downloads\number-2.0-20240102t193622z-001\number-2.0\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+	"Picture.h"
+
+1704117076 c:\users\konooz gamal\downloads\number-2.0-20240102t193622z-001\number-2.0\include\point.h
+
+1704117432 c:\users\konooz gamal\downloads\number-2.0-20240102t193622z-001\number-2.0\include\line.h
+	"Point.h"
+
+1704117592 c:\users\konooz gamal\downloads\number-2.0-20240102t193622z-001\number-2.0\include\circle.h
+	"Point.h"
+
+1704118144 c:\users\konooz gamal\downloads\number-2.0-20240102t193622z-001\number-2.0\include\rect.h
+	"Point.h"
+
+1704123710 c:\users\konooz gamal\downloads\number-2.0-20240102t193622z-001\number-2.0\include\picture.h
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+
+1704117744 source:c:\users\konooz gamal\downloads\number-2.0-20240102t193622z-001\number-2.0\src\circle.cpp
+	"Circle.h"
+	"graphics.h"
+
+1704117454 source:c:\users\konooz gamal\downloads\number-2.0-20240102t193622z-001\number-2.0\src\line.cpp
+	"Line.h"
+	"graphics.h"
+
+1704127274 source:c:\users\konooz gamal\downloads\number-2.0-20240102t193622z-001\number-2.0\src\picture.cpp
+	"Picture.h"
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+
+1704117136 source:c:\users\konooz gamal\downloads\number-2.0-20240102t193622z-001\number-2.0\src\point.cpp
+	"Point.h"
+
+1704123582 source:c:\users\konooz gamal\downloads\number-2.0-20240102t193622z-001\number-2.0\src\rect.cpp
+	"Rect.h"
+	<graphics.h>
+
+1704225652 source:d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\src\circle.cpp
+	"Circle.h"
+	"graphics.h"
+
+1704225608 d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\include\circle.h
+	"Point.h"
+
+1704117076 d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\include\point.h
+
+1704225929 source:d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\src\line.cpp
+	"Line.h"
+	"graphics.h"
+
+1704225701 d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\include\line.h
+	"Point.h"
+
+1704127274 source:d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\src\picture.cpp
+	"Picture.h"
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+
+1704123710 d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\include\picture.h
+	"Circle.h"
+	"Rect.h"
+	"Line.h"
+
+1704225971 d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\include\rect.h
+	"Point.h"
+
+1704117136 source:d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\src\point.cpp
+	"Point.h"
+
+1704226146 source:d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\src\rect.cpp
+	"Rect.h"
+	<graphics.h>
+
+1704224553 source:d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\src\shape.cpp
+	"Shape.h"
+	<iostream>
+	<graphics.h>
+
+1704224531 d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\include\shape.h
+
+1704226036 source:d:\iti - new\c++_oop\day08\tasks\the_first_task\number-2.0\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+	"Picture.h"
+	"Shape.h"
+
+1704190036 source:d:\lab c++ oop\day8\number-1.0\main.cpp
+	<iostream>
+	<graphics.h>
+	"Point.h"
+	"Line.h"
+	"Circle.h"
+	"Rect.h"
+	"Picture.h"
+	"Shape.h"
+
+1704081076 d:\lab c++ oop\day8\number-1.0\include\point.h
+
+1704189700 d:\lab c++ oop\day8\number-1.0\include\line.h
+	"Point.h"
+
+1704189608 d:\lab c++ oop\day8\number-1.0\include\circle.h
+	"Point.h"
+
+1704189970 d:\lab c++ oop\day8\number-1.0\include\rect.h
+	"Point.h"
+
+1704188530 d:\lab c++ oop\day8\number-1.0\include\shape.h
+
+1704189652 source:d:\lab c++ oop\day8\number-1.0\src\circle.cpp
+	"Circle.h"
+	"graphics.h"
+
+1704189928 source:d:\lab c++ oop\day8\number-1.0\src\line.cpp
+	"Line.h"
+	"graphics.h"
+
+1704081136 source:d:\lab c++ oop\day8\number-1.0\src\point.cpp
+	"Point.h"
+
+1704190146 source:d:\lab c++ oop\day8\number-1.0\src\rect.cpp
+	"Rect.h"
+	<graphics.h>
+
+1704188552 source:d:\lab c++ oop\day8\number-1.0\src\shape.cpp
+	"Shape.h"
+	<iostream>
+	<graphics.h>
+

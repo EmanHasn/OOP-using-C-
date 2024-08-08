@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1704001930 source:d:\lab c++ oop\day5\number-1\main.cpp
+	<iostream>
+	"base.h"
+	"derived.h"
+
+1704002053 source:d:\lab c++ oop\day5\number-1\src\derived.cpp
+	"derived.h"
+
+1704002081 d:\lab c++ oop\day5\number-1\include\derived.h
+	"base.h"
+
+1704002107 source:d:\lab c++ oop\day5\number-1\src\base.cpp
+	"base.h"
+
+1704001585 d:\lab c++ oop\day5\number-1\include\base.h
+

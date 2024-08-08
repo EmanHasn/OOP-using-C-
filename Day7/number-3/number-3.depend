@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1704194753 source:d:\lab c++ oop\day7\number-3\main.cpp
+	<iostream>
+	"Employee.h"
+
+1704194492 source:d:\lab c++ oop\day7\number-3\src\address.cpp
+	"Address.h"
+
+1704194457 d:\lab c++ oop\day7\number-3\include\address.h
+	<iostream>
+
+1704194375 source:d:\lab c++ oop\day7\number-3\src\employee.cpp
+	"Employee.h"
+
+1704194513 d:\lab c++ oop\day7\number-3\include\employee.h
+	<iostream>
+	"Address.h"
+

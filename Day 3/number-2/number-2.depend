@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1703667256 source:d:\lab c++ oop\day3\number-2\src\sum.cpp
+	"Sum.h"
+	<iostream>
+
+1703666101 d:\lab c++ oop\day3\number-2\include\sum.h
+
+1703667970 source:d:\lab c++ oop\day3\number-2\main.cpp
+	<iostream>
+	"Sum.h"
+

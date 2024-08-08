@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1704010106 source:d:\iti - new\c++_oop\day05\tasks\geoshap\src\geoshape.cpp
+	"Geoshape.h"
+
+1704009592 d:\iti - new\c++_oop\day05\tasks\geoshap\include\geoshape.h
+
+1704012984 source:d:\iti - new\c++_oop\day05\tasks\geoshap\main.cpp
+	<iostream>
+	"GeoShape.h"
+
+1704027501 source:d:\iti - new\c++_oop\day06\tasks\geoshap\src\geoshape.cpp
+	"Geoshape.h"
+
+1704027503 d:\iti - new\c++_oop\day06\tasks\geoshap\include\geoshape.h
+
+1704092074 source:d:\iti - new\c++_oop\day06\tasks\geoshap\main.cpp
+	<iostream>
+	"GeoShape.h"
+
+1704064682 source:d:\lab c++ oop\day6\geoshap\main.cpp
+	<iostream>
+	"GeoShape.h"
+
+1703991502 d:\lab c++ oop\day6\geoshap\include\geoshape.h
+
+1703991500 source:d:\lab c++ oop\day6\geoshap\src\geoshape.cpp
+	"Geoshape.h"
+
+1704108069 source:d:\lab c++ oop\day6\standalone\main.cpp
+	<iostream>
+	"GeoShape.h"
+
+1703991502 d:\lab c++ oop\day6\standalone\include\geoshape.h
+
+1704106589 source:d:\lab c++ oop\day6\standalone\src\geoshape.cpp
+	"Geoshape.h"
+

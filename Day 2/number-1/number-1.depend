@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1703595120 source:d:\lab c++ oop\day2\number-1\main.cpp
+	<iostream>
+	<ComplexNumber.h>
+
+1703593611 d:\lab c++ oop\day2\number-1\include\complexnumber.h
+
+1703593640 source:d:\lab c++ oop\day2\number-1\src\complexnumber.cpp
+	<ComplexNumber.h>
+	"ComplexNumber.h"
+	<iostream>
+

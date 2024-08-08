@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584205420 source:d:\lab c++ oop\day4\number-3.0\main.cpp
+	<iostream>
+
+1704020791 source:d:\lab c++ oop\day4\number-3.0\src\person.cpp
+	"Person.h"
+
+1704021030 d:\lab c++ oop\day4\number-3.0\include\person.h
+	<iostream>
+
+1704020831 source:d:\lab c++ oop\day4\number-3.0\src\employee.cpp
+	"Employee.h"
+
+1704021805 d:\lab c++ oop\day4\number-3.0\include\employee.h
+	"Person.h"
+	<iostream>
+
